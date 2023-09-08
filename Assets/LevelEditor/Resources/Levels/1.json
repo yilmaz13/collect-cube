@@ -1,0 +1,382 @@
+{
+    "id": 1,
+    "levelType": "Time",
+    "width": 6,
+    "height": 6,
+    "currentIndex": 0,
+    "index": 2,
+    "tiles": [],
+    "blockList": [
+        {
+            "blocks": [
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Red",
+                    "width": 0,
+                    "height": 0
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                },
+                {
+                    "color": "Yellow",
+                    "width": 0,
+                    "height": 0
+                }
+            ]
+        }
+    ],
+    "time": 12.0,
+    "oneCubeScore": 50,
+    "score": 0
+}
